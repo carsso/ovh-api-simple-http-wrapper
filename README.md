@@ -12,6 +12,8 @@ How to use
 
 Install dependencies with Composer : `composer install`
 
+Copy the default htaccess file : cp .htaccess-dist .htaccess
+
 Copy the default config file : `cp config.php-dist config.php`
 
 Generate OVH API keys "script credentials" and update the config file accordingly : `vim config.php`.
