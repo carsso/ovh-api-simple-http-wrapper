@@ -12,9 +12,9 @@ How to use
 
 Install dependencies with Composer : `composer install`
 
-Copy the default config file : `cp config.json-dist config.json`
+Copy the default config file : `cp config.php-dist config.php`
 
-Generate OVH API keys "script credentials" and update the config file accordingly : `vim config.json`.
+Generate OVH API keys "script credentials" and update the config file accordingly : `vim config.php`.
 
 _Read https://github.com/ovh/php-ovh#supported-apis to find the URL to generate the script credentials and the supported endpoints_
 

@@ -1,0 +1,27 @@
+<?php
+$config = array(
+    'endpoint'          =>  'ovh-eu',
+    'applicationKey'    => 'xxxxxxxxxxxxxxx',
+    'applicationSecret' => 'xxxxxxxxxxxxxxxxxxxxxx',
+    'consumerKey'       => 'xxxxxxxxxxxxxxxxxxxxxxxxxx',
+    /*
+    'rights' => array(
+        [
+            'method'    => 'GET',
+            'path'      => '/*'
+        ],
+        [
+            'method'    => 'POST',
+            'path'      => '/*'
+        ],
+        [
+            'method'    => 'PUT',
+            'path'      => '/*'
+        ],
+        [
+            'method'    => 'DELETE',
+            'path'      => '/*'
+        ],
+    ),
+     */
+);

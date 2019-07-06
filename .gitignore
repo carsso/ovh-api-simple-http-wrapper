@@ -9,4 +9,5 @@ nbproject
 */.DS_Store
 .directory
 vendor
-config.json
+config.php
+.htaccess

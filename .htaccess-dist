@@ -3,7 +3,3 @@ AddDefaultCharset UTF-8
 
 RewriteEngine On
 RewriteRule ^(.*)$ index.php [QSA,L]
-<Files "config.json">
-Order Allow,Deny
-Deny from all
-</Files>
