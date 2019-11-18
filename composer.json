@@ -1,6 +1,6 @@
 {
-    "name": "Example Application",
-    "description": "This is an example of OVH APIs wrapper usage",
+    "name": "carsso/ovh-api-simple-http-wrapper",
+    "description": "OVH API HTTP wrapper written in PHP (not affiliated with OVH)",
     "require": {
         "ovh/ovh": "dev-master"
     }
