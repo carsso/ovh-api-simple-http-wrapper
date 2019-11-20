@@ -200,12 +200,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/ovh/php-ovh.git",
-                "reference": "45c9b8002f757e11c395022e3bc01cfed4662435"
+                "reference": "c473b3d67e5757c188b10e3048aba1ec43133653"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ovh/php-ovh/zipball/45c9b8002f757e11c395022e3bc01cfed4662435",
-                "reference": "45c9b8002f757e11c395022e3bc01cfed4662435",
+                "url": "https://api.github.com/repos/ovh/php-ovh/zipball/c473b3d67e5757c188b10e3048aba1ec43133653",
+                "reference": "c473b3d67e5757c188b10e3048aba1ec43133653",
                 "shasum": ""
             },
             "require": {
@@ -228,7 +228,7 @@
                 "BSD-3-Clause"
             ],
             "description": "Wrapper for OVH APIs",
-            "time": "2019-07-09T17:46:32+00:00"
+            "time": "2019-11-16T17:12:55+00:00"
         },
         {
             "name": "psr/http-message",
